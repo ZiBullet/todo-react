@@ -1,0 +1,20 @@
+{
+    "title": "Eslatmalar",
+    "allNotes": "Barcha eslatmalar",
+    "noNotes": "Eslatmalar yo'q",
+    "edit": "O'ZGARTIRISH",
+    "list": "Roʻyxat",
+    "grid": "Setka",
+    "editNote": "Elsatmani tahrirlash",
+    "cancel": "Bekor qilish",
+    "add": "Qo'shish",
+    "search": "Qidirish",
+    "placeholder": "Qidirish...",
+    "cardEdit": "O'ZGARTIRISH",
+    "cardDel": "o'chirish",
+    "addNote": "Eslatma qo'shing",
+    "notifyAdd": "Eslatma qo'shildi!",
+    "notifyEdit": "Eslatma o'zgartirildi!",
+    "notifyDel": "Eslatma o'chirildi!",
+    "notifyError": "2 dan ortiq belgi kiritishingiz kerak"
+}
